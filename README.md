@@ -132,6 +132,8 @@ python MyCompiler.py
 
 ## Sintaxe BASIC Suportada
 
+<div align="center">
+    
 | Instrução | Descrição | Exemplo |
 |-----------|-----------|---------|
 | `PRINT` | Imprime texto ou expressão numérica | `PRINT "Olá"` / `PRINT x + 1` |
@@ -140,6 +142,8 @@ python MyCompiler.py
 | `IF...THEN...ENDIF` | Bloco condicional | `IF x > 5 THEN` |
 | `WHILE...REPEAT...ENDWHILE` | Bloco de repetição | `WHILE x > 0 REPEAT` |
 | `LABEL` / `GOTO` | Rótulos e saltos | `LABEL inicio` / `GOTO inicio` |
+
+</div>
 
 **Operadores:** `+` `-` `*` `/` `==` `!=` `<` `<=` `>` `>=`
 
@@ -257,7 +261,7 @@ ENDWHILE
 ---
 
 ## Estrutura do Projeto
-
+    
 ```
 Compilador-A3/
 ├── MyCompiler.py          # Aplicação GUI e orquestração da compilação
@@ -282,6 +286,8 @@ Compilador-A3/
 
 ## Stack Técnica
 
+<div align="center">
+
 | Tecnologia | Uso |
 |-----------|-----|
 | [Python 3](https://python.org) | Linguagem principal do compilador e da GUI |
@@ -289,52 +295,36 @@ Compilador-A3/
 | BASIC | Linguagem fonte (subconjunto simplificado) |
 | C | Linguagem alvo da compilação |
 
+</div>
+
 ---
 
-## Autor
+## Colaboradores
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/lucaslopesdasilva/">
-        <img src="https://avatars.githubusercontent.com/u/119815116?v=4" width="100px;" /><br>
-        <sub>
-          <b>Lucas Silva</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/nycolasagrgarcia/">
-        <img src="https://avatars.githubusercontent.com/u/127459801?v=4" width="100px;" /><br>
-        <sub>
-          <b>Nycolas Garcia</b>
-        </sub>
-      </a>
-  </tr>
-</table>
+<div align="center">
+  
+  | Lucas Silva | Nycolas Garcia |
+  | --- | --- |
+  | <a href="https://www.linkedin.com/in/lucaslopesdasilva/"><img src="https://avatars.githubusercontent.com/u/119815116?v=4" width="100px;"/></a> | <a href="https://www.linkedin.com/in/nycolasagrgarcia/"><img src="https://avatars.githubusercontent.com/u/127459801?v=4" width="100px;" /></a> |
 
-<p>
-  <a href="https://www.linkedin.com/in/lucaslopesdasilva/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://portfolio-lucaslopes.vercel.app">
-    <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/eoLucasS">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+</div>
+
+## Contato
+
+<div align="center" justify-content="center">
+
+  Lucas Lopes | Nycolas Garcia |
+  | --- | --- |
+  | <img src="https://skills.syvixor.com/api/icons?i=x" width="20"> [Twitter](https://x.com/eoLucasS114) | <img src="https://skills.syvixor.com/api/icons?i=bluesky" width="20"> [BlueSky](https://bsky.app/profile/nycolasagrg.bsky.social) |
+  | <img src="https://skills.syvixor.com/api/icons?i=linkedin" width="20"> [LinkedIn](https://www.linkedin.com/in/lucaslopesdasilva) | <img src="https://skills.syvixor.com/api/icons?i=linkedin" width="20"> [LinkedIn](https://www.linkedin.com/in/NycolasAGRGarcia/) |
+  | <img src="https://skills.syvixor.com/api/icons?i=github" width="20"> [GitHub](https://github.com/eoLucass) | <img src="https://skills.syvixor.com/api/icons?i=github" width="20"> [GitHub](https://github.com/NycolasGarcia) |
+  | <img src="https://skills.syvixor.com/api/icons?i=gmail" width="20"> [lucascontato1419@gmail.com](mailto:lucascontato1419@gmail.com) |<img src="https://skills.syvixor.com/api/icons?i=gmail" width="20"> [nycolasagrg@gmail.com](mailto:nycolasagrg@gmail.com) |
+  | <img src="https://skills.syvixor.com/api/icons?i=vercel" width="20"> [Portfólio](https://portfolio-lucaslopes.vercel.app/) | <img src="https://skills.syvixor.com/api/icons?i=vercel" width="20"> [Portfólio](https://dev-nycolas-garcia.vercel.app/) |
+
+</div>
 
 ---
 
 ## Licença
 
 MIT. Veja [LICENSE](LICENSE) para detalhes.
-
----
-
-<div align="center">
-
-Feito por [Lucas Silva](https://github.com/eoLucasS)
-
-</div>
